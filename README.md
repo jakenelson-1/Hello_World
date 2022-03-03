@@ -1,3 +1,29 @@
+### **Project Title**
+*Hello World Jake Nelson Sample*
+
+### **Description**
+This project's purpose is to indtorduce basic functions and become oriented with GitHub.
+
+### **How to Run Program**
+Hello_World/
+   - README.md
+    
+### **Files Used**
+<mark>No</mark> files were imported for this project. 🙏
+
+### **Additional Documentation**
+**_No_** additional documentation was required for this project. 
+
+### *Version Summary*
+- [X] All changes made to to this project were made on Tuesday, March 3rd
+
+
+
+
+
+
+
+
 # Hello_World
 Practice Repository 
 
