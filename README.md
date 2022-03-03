@@ -2,14 +2,14 @@
 *Hello World - Jake Nelson's Sample*
 
 ### **Description**
-This project's purpose is to indtorduce basic functions and become oriented with GitHub.
+This project's purpose is to introduce basic functions and become oriented with GitHub.
 
 ### **How to Run Program**
 Hello_World/
 - README.md
     
 ### **Files Used**
-<mark>No</mark> files were imported for this project. 🙏
+<mark>No</mark> files were imported for this project. :pray:
 
 ### **Additional Documentation**
 **_No_** additional documentation was required for this project. 
