@@ -1,5 +1,5 @@
 ### **Project Title**
-*Hello World Jake Nelson Sample*
+*Hello World - Jake Nelson's Sample*
 
 ### **Description**
 This project's purpose is to indtorduce basic functions and become oriented with GitHub.
@@ -16,10 +16,6 @@ Hello_World/
 
 ### *Version Summary*
 - [X] All changes made to to this project were made on Tuesday, March 3rd
-
-
-
-
 
 
 
