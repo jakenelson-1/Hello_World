@@ -5,8 +5,8 @@
 This project's purpose is to indtorduce basic functions and become oriented with GitHub.
 
 ### **How to Run Program**
-Hello_World/
-   - README.md
+1. Hello_World/
+- README.md
     
 ### **Files Used**
 <mark>No</mark> files were imported for this project. 🙏
